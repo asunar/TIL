@@ -9,5 +9,6 @@
 * Nightwatch
 
 * Vim
+	* [Line endings in Windows] (/vim/lineendings.md)
 
 * Cmder/Command Line
