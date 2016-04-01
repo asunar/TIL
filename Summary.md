@@ -1,6 +1,6 @@
 # Summary
 
-* Keyborad Shorcuts
+* Keyboard Shorcuts
 
 * Git
 
