@@ -1,9 +1,11 @@
 # Summary
 
-* Shorcuts
+* Keyborad Shorcuts
 
 * Git
 
 * Debugging
 
 * Nightwatch
+
+* Vim
